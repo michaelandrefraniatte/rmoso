@@ -2,7 +2,11 @@ C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\bin\Release\rmoso.exe.conf
 C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\bin\Release\rmoso.exe
 C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\bin\Release\rmoso.pdb
 C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\obj\Release\rmoso.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\obj\Release\rmoso.csproj.SuggestedBindingRedirects.cache
 C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\obj\Release\rmoso.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\obj\Release\rmoso.exe
 C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\obj\Release\rmoso.pdb
+C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\bin\Release\Keyboardinputs.dll
+C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\bin\Release\SharpDX.DirectInput.dll
+C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\bin\Release\SharpDX.dll
+C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\bin\Release\Keyboardinputs.pdb
+C:\Users\micha\Documents\github\rmoso\Src\rmoso\rmoso\obj\Release\rmoso.csproj.CopyComplete
